@@ -1,0 +1,15 @@
+artifact_uri: /home/balamurugan/mlflow-walkthrough/mlruns/380943166029257618/14ca4fa468f1445f9971cb566f3f194a/artifacts
+end_time: 1712321063474
+entry_point_name: ''
+experiment_id: '380943166029257618'
+lifecycle_stage: active
+run_id: 14ca4fa468f1445f9971cb566f3f194a
+run_name: placid-perch-839
+run_uuid: 14ca4fa468f1445f9971cb566f3f194a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712321061162
+status: 3
+tags: []
+user_id: balamurugan
