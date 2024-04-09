@@ -1,0 +1,15 @@
+artifact_uri: /home/balamurugan/mlflow-walkthrough/mlruns/380943166029257618/291f1cc2c7b749f389b2292deca3d7d4/artifacts
+end_time: 1712317366008
+entry_point_name: ''
+experiment_id: '380943166029257618'
+lifecycle_stage: active
+run_id: 291f1cc2c7b749f389b2292deca3d7d4
+run_name: amazing-shoat-436
+run_uuid: 291f1cc2c7b749f389b2292deca3d7d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712317363638
+status: 3
+tags: []
+user_id: balamurugan
